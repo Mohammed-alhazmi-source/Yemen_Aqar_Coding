@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841661660446",
+    "project_id": "yemen-aqar-app-c9932",
+    "storage_bucket": "yemen-aqar-app-c9932.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841661660446:android:2d21d913e78bca45c8dd0f",
+        "android_client_info": {
+          "package_name": "com.nanoteam.yemenaqar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXfE_p4x7NHAn-0u1AwhfyCaTr5WmScQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
